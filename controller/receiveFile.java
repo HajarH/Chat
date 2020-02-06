@@ -10,11 +10,6 @@
  * 
  */
 
-/***
- * @author hajar
- */
-
-
 /*
 package controller;
 import java.lang.System;
