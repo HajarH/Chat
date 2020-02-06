@@ -9,10 +9,6 @@
  * 
  */
 
-/***
- * @author hajar
- */
-
 package view;
 
 import java.awt.event.ActionEvent;
