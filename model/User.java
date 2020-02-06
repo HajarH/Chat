@@ -9,10 +9,6 @@
  * 
  */
 
-/***
- * @author hajar
- */
-
 package model;
 
 import java.io.IOException;
