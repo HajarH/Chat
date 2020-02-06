@@ -8,9 +8,6 @@
  * 
  */
 
-/***
- * @author hajar
- */
 /*
 package model;
 
