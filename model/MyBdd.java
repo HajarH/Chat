@@ -11,10 +11,6 @@
  * 
  */
 
-/***
- * @author hajar
- */
-
 package model;
 
 import java.sql.*;

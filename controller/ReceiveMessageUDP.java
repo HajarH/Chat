@@ -9,10 +9,6 @@
  * 
  */
 
-/***
- * @author hajar
- */
-
 package controller;
 
 import java.net.*;

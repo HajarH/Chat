@@ -9,11 +9,6 @@
  * 
  */
 
-/***
- * @author hajar
- */
-
-
 package model;
 import java.io.IOException;
 import java.net.InetAddress;

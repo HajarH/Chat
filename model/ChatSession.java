@@ -10,10 +10,6 @@
  * 
  */
 
-/***
- * @author hajar
- */
-
 
 package model;
 import java.net.*;
